@@ -1,0 +1,1 @@
+This program simulates grid cell firing properties in the brain, particularly focusing on how these properties change across different lighting conditions, such as light (L), dark (D), and post-light (L'). It generates synthetic data to mimic the movement of an animal (e.g., a rat) and the firing activity of grid cells in the brain during different conditions.
